@@ -30,3 +30,8 @@ class Voiture {
 ```
 
 Ecrire une classe `Animal` qui respecte les preceptes précedents.
+
+## Exercice 2: Le constructeur
+Dans l'exercice precedent, il etait necessaire de definir les attribut un a un a. Il serait preferable d'avoir une methode pour initialiser notre animal: Le constructeur.
+
+Ajouter un constructeur a la classe animal.

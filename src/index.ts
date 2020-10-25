@@ -1,6 +1,4 @@
 import Animal from "./Animal";
 
-let animal: Animal = new Animal();
-animal.nom = "Homme";
-animal.taille = 32;
+let animal: Animal = new Animal('Homme', 170);
 animal.manger();
